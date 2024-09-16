@@ -1,6 +1,6 @@
 # **About Me**
 
-Hi, I'm Balaji ! I have an background of Banking Technology. I have developed a strong foundation in the Data analysis and a passion for using data to uncover meaningful to insights. 
+Hi, I'm Balaji ! I have an background of Banking Technology and Computer Science. I have developed a strong foundation in the Data analysis and a passion for using data to uncover meaningful to insights. 
 I am excited to bring my technical and analytical skills and Knowledge gained at the field of data analysis as an entry-level data specialist.
 
 
