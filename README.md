@@ -8,4 +8,6 @@ I am excited to bring my technical and analytical skills Knowledge gained at the
 
 ### **Balaji Sivakumar Portfolio** [Project Portfolio](https://github.com/Bala171)
 
+## Balaji Sivakumar [Certifications]
+
 
